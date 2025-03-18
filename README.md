@@ -1,6 +1,8 @@
 # nosql-challenge
 Module 12 Challenge
 
+**NOTE: Github was having difficulties rendering the codeblock for NoSQL_setup_starter_ipynb. The code is there, click the download button to view it.** 
+
 ## Folder Structure
 The nosql-challenge folder contains the jupyter notebook files for this challenge: NoSQL_analysis_starter.ipynb and NoSQL_setup_starter.ipynb. The setup file should be run first. The subfolder, Resources, contains the establishments.json databse to load. 
 
